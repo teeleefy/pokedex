@@ -1,0 +1,12 @@
+.PokeCard {
+    display: inline-block;
+    background-color: skyblue;
+    margin: 5px;
+    padding: 3px;
+    width: 20%;
+    border-radius: 15px;
+}
+
+.PokeCard-header {
+    color: blue;
+}
